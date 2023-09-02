@@ -1,4 +1,4 @@
-# Drowsy Detection Using Computer Vision
+# Drowsy Detection
 
 ## Introduction
 
